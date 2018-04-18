@@ -1,0 +1,45 @@
+.logo-img {
+  width: 100px;
+}
+
+.redes-sociales a img{
+  float: right;
+  margin-top: 10%;
+  padding: 1px;
+}
+
+.navbar-estilo{
+background-color: #e3f2fd;
+
+}
+
+.border{
+  color: black;
+}
+
+p{
+  font-size: 14px;
+}
+
+
+
+@media (max-width: 900px) {
+    .redes-sociales a img{
+    float: none;
+    margin-top: 0%;
+    padding: 1px;
+  }
+
+  textarea{
+    margin-top: 3%;
+    padding: 1em;
+  }
+
+  .quitar div{
+    display: none;
+  }
+  p{
+    font-size: 20px;
+  }
+
+}
