@@ -1,0 +1,40 @@
+div{
+  border: 0.2px solid black;
+}
+
+h1{
+  font-size: 20px;
+  text-align: right;
+}
+
+.slogan{
+  text-align: right;
+}
+
+.ajmargen{
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.ajmargena{
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.tamimgfav{
+  
+}
+
+img{
+  border-radius: 5px;
+}
+
+h5{
+  color: blue;
+}
+
+@@media (max-width: 620px) {
+
+
+
+}
